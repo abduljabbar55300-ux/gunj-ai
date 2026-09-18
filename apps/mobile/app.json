@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "GunjAI",
+    "slug": "gunj-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0a0f1f"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
